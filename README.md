@@ -38,4 +38,9 @@ Make sure you have the [Heroku toolbelt](https://toolbelt.heroku.com/)
     heroku git:remote -a <Your Heroku app name>
     git push heroku master
     
-Don't forget to update your Tictail App's URI to the Heroku app one (with https!)
+*Don't forget to update your Tictail App's URI to the Heroku app one (with https!)*
+
+## Yeay, your first Tictail app!
+
+![Your awesome app](https://f.cloud.github.com/assets/321787/1126025/b07920a8-1b1c-11e3-8e52-69c9b30d8050.png)
+
